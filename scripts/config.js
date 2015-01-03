@@ -1,1 +1,0 @@
-window.config = { ClientId: 3346 , ServerUrl: 'http://services.3alapp.com'}
