@@ -1,0 +1,1 @@
+window.config = { ClientId: 3349 , ServerUrl: 'http://services.3alapp.com'}
