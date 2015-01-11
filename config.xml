@@ -1,8 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="GMA-1303" versionCode="7" version="1.0.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="Track-1007" versionCode="8" version="1.0.0">
   <name>Slamlek Group</name>
   <description>Slamlek Group - Eslam Sarhan</description>
-  <author href="www.dashsoft.com" email="Dashsoft">    Dashsoft  </author>
+  <author href="www.dashsoft.com" email="Dashsoft">
+    Dashsoft
+  </author>
   <preference name="permissions" value="none" />
   <preference name="phonegap-version" value="3.4.0" />
   <preference name="orientation" value="default" />
