@@ -1,1 +1,1 @@
-window.config = { ClientId: 1298 , ServerUrl: 'http://services.3alapp.com'}
+window.config = { ClientId: 1299 , ServerUrl: 'http://services.3alapp.com'}

@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="Track-1023" versionCode="7" version="1.0.0">
-  <name>Slamlek</name>
-  <description>Slamlek Cafe - Mohamed AbouElkher</description>
-  <author href="www.dashsoft.com" email="Dashsoft">
-    Dashsoft
-  </author>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="Track-1025" versionCode="7" version="1.0.0">
+  <name>حياة لذوي القدرات الخاصة</name>
+  <description>مؤسسة حياة لذوي القدرات الخاصة - Sherif Shahen</description>
+  <author href="www.dashsoft.com" email="Dashsoft">    Dashsoft  </author>
   <preference name="permissions" value="none" />
   <preference name="phonegap-version" value="3.4.0" />
   <preference name="orientation" value="default" />
