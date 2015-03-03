@@ -3,7 +3,7 @@
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		id        = "com.tracktek.mansoura"
 		versionCode="9"
-		version   = "1.0.3">
+		version   = "1.0.5">
 		<name>The High Institute for Engineering and Technology</name>
 		<description>
 The High Institute for Engineering and Technology - Mohamed Lotfy		</description>
