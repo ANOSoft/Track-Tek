@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="GMA-1307" versionCode="7" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.tracktek.AinHaya" versionCode="7" version="1.0.0">
   <name>مستشفي عين الحياة</name>
   <description>Ein EL Hayah Hospital - Ein EL Hayah Hospital</description>
   <author href="www.dashsoft.com" email="Dashsoft">    Dashsoft  </author>
   <preference name="permissions" value="none" />
-  <preference name="phonegap-version" value="3.4.0" />
+  <preference name="phonegap-version" value="3.6.3" />
   <preference name="orientation" value="default" />
   <preference name="fullscreen" value="true" />
   <preference name="target-device" value="universal" />
@@ -59,7 +59,7 @@
   <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
   <gap:plugin name="org.apache.cordova.device-motion" version="0.2.10" />
   <gap:plugin name="org.apache.cordova.dialogs" version="0.2.10" />
-  <gap:plugin name="org.apache.cordova.file" version="1.0.1" />
+  <gap:plugin name="org.apache.cordova.file" version="1.3.1" />
   <gap:plugin name="org.apache.cordova.file-transfer" version="0.4.2" />
   <gap:plugin name="org.apache.cordova.inappbrowser" version="0.5.2" />
   <gap:plugin name="org.apache.cordova.media" version="0.2.13" />
