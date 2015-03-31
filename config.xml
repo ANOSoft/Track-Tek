@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="GMA-5371" versionCode="7" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="Tracktek-5371" versionCode="7" version="1.0.0">
   <name>The Roots</name>
   <description>Stock Brokerage House - Abu-Bakr Ahmed</description>
   <author href="www.dashsoft.com" email="Dashsoft">    Dashsoft  </author>
   <preference name="permissions" value="none" />
-  <preference name="phonegap-version" value="3.6.6" />
+  <preference name="phonegap-version" value="3.6.3" />
   <preference name="orientation" value="default" />
   <preference name="fullscreen" value="true" />
   <preference name="target-device" value="universal" />
